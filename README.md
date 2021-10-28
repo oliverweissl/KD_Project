@@ -14,7 +14,7 @@ Its requirede to have our Ontology loaded into GraphDB under the repository name
 -Getting an organisms Lineage and its indices using the SpeciesID
   -> useage: get_lineage(SpeciesID)
   
-#Automatic Querying and SPARQL-Query generator using a Form
+#Automatic Querying and SPARQL-Query generator using a Form \n
 The last part of the Notebook contains a Form that lets a user Query for an organism in a very simple way.
 -> after the form is filled do not run the Cell again , otherwise it resets
 How to use:
